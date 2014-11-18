@@ -1,0 +1,6 @@
+C:\Users\Swara Dharmaraj\documents\visual studio 2013\Projects\Schaum.DataStructures\Ch5_LinkedList\obj\Debug\Ch5_LinkedList.csprojResolveAssemblyReference.cache
+C:\Users\Swara Dharmaraj\documents\visual studio 2013\Projects\Schaum.DataStructures\Ch5_LinkedList\bin\Debug\Ch5_LinkedList.exe.config
+C:\Users\Swara Dharmaraj\documents\visual studio 2013\Projects\Schaum.DataStructures\Ch5_LinkedList\bin\Debug\Ch5_LinkedList.exe
+C:\Users\Swara Dharmaraj\documents\visual studio 2013\Projects\Schaum.DataStructures\Ch5_LinkedList\bin\Debug\Ch5_LinkedList.pdb
+C:\Users\Swara Dharmaraj\documents\visual studio 2013\Projects\Schaum.DataStructures\Ch5_LinkedList\obj\Debug\Ch5_LinkedList.exe
+C:\Users\Swara Dharmaraj\documents\visual studio 2013\Projects\Schaum.DataStructures\Ch5_LinkedList\obj\Debug\Ch5_LinkedList.pdb
