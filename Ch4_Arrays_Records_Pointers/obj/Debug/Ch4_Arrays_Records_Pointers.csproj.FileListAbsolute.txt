@@ -1,0 +1,6 @@
+c:\users\swara dharmaraj\documents\visual studio 2013\Projects\Schaum.DataStructures\Ch4_Arrays_Records_Pointers\bin\Debug\Ch4_Arrays_Records_Pointers.exe.config
+c:\users\swara dharmaraj\documents\visual studio 2013\Projects\Schaum.DataStructures\Ch4_Arrays_Records_Pointers\bin\Debug\Ch4_Arrays_Records_Pointers.exe
+c:\users\swara dharmaraj\documents\visual studio 2013\Projects\Schaum.DataStructures\Ch4_Arrays_Records_Pointers\bin\Debug\Ch4_Arrays_Records_Pointers.pdb
+c:\users\swara dharmaraj\documents\visual studio 2013\Projects\Schaum.DataStructures\Ch4_Arrays_Records_Pointers\obj\Debug\Ch4_Arrays_Records_Pointers.csprojResolveAssemblyReference.cache
+c:\users\swara dharmaraj\documents\visual studio 2013\Projects\Schaum.DataStructures\Ch4_Arrays_Records_Pointers\obj\Debug\Ch4_Arrays_Records_Pointers.exe
+c:\users\swara dharmaraj\documents\visual studio 2013\Projects\Schaum.DataStructures\Ch4_Arrays_Records_Pointers\obj\Debug\Ch4_Arrays_Records_Pointers.pdb
