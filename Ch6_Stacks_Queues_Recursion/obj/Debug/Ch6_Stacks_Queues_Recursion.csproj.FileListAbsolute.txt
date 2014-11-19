@@ -1,0 +1,6 @@
+C:\Users\Swara Dharmaraj\documents\visual studio 2013\Projects\Schaum.DataStructures\Ch6_Stacks_Queues_Recursion\bin\Debug\Ch6_Stacks_Queues_Recursion.exe.config
+C:\Users\Swara Dharmaraj\documents\visual studio 2013\Projects\Schaum.DataStructures\Ch6_Stacks_Queues_Recursion\bin\Debug\Ch6_Stacks_Queues_Recursion.exe
+C:\Users\Swara Dharmaraj\documents\visual studio 2013\Projects\Schaum.DataStructures\Ch6_Stacks_Queues_Recursion\bin\Debug\Ch6_Stacks_Queues_Recursion.pdb
+C:\Users\Swara Dharmaraj\documents\visual studio 2013\Projects\Schaum.DataStructures\Ch6_Stacks_Queues_Recursion\obj\Debug\Ch6_Stacks_Queues_Recursion.csprojResolveAssemblyReference.cache
+C:\Users\Swara Dharmaraj\documents\visual studio 2013\Projects\Schaum.DataStructures\Ch6_Stacks_Queues_Recursion\obj\Debug\Ch6_Stacks_Queues_Recursion.exe
+C:\Users\Swara Dharmaraj\documents\visual studio 2013\Projects\Schaum.DataStructures\Ch6_Stacks_Queues_Recursion\obj\Debug\Ch6_Stacks_Queues_Recursion.pdb

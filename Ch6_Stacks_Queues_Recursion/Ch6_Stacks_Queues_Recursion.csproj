@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>d6bd2d88-0590-43e4-a186-4c84f5559305</ProjectGuid>
+    <ProjectGuid>{F3830766-A01A-4E8B-8B5F-EB55AACFFD71}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Ch6_Stacks_Queues_Recursion</RootNamespace>
