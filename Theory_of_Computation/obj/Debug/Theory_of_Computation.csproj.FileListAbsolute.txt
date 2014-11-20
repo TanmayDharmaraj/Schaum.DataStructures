@@ -1,0 +1,6 @@
+C:\Users\Swara Dharmaraj\documents\visual studio 2013\Projects\Schaum.DataStructures\Theory_of_Computation\obj\Debug\Theory_of_Computation.csprojResolveAssemblyReference.cache
+C:\Users\Swara Dharmaraj\documents\visual studio 2013\Projects\Schaum.DataStructures\Theory_of_Computation\bin\Debug\Theory_of_Computation.exe.config
+C:\Users\Swara Dharmaraj\documents\visual studio 2013\Projects\Schaum.DataStructures\Theory_of_Computation\bin\Debug\Theory_of_Computation.exe
+C:\Users\Swara Dharmaraj\documents\visual studio 2013\Projects\Schaum.DataStructures\Theory_of_Computation\bin\Debug\Theory_of_Computation.pdb
+C:\Users\Swara Dharmaraj\documents\visual studio 2013\Projects\Schaum.DataStructures\Theory_of_Computation\obj\Debug\Theory_of_Computation.exe
+C:\Users\Swara Dharmaraj\documents\visual studio 2013\Projects\Schaum.DataStructures\Theory_of_Computation\obj\Debug\Theory_of_Computation.pdb
