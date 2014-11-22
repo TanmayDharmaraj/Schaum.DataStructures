@@ -1,0 +1,6 @@
+C:\Users\Swara Dharmaraj\documents\visual studio 2013\Projects\Schaum.DataStructures\Algorithms\obj\Debug\Algorithms.csprojResolveAssemblyReference.cache
+C:\Users\Swara Dharmaraj\documents\visual studio 2013\Projects\Schaum.DataStructures\Algorithms\bin\Debug\Algorithms.exe.config
+C:\Users\Swara Dharmaraj\documents\visual studio 2013\Projects\Schaum.DataStructures\Algorithms\bin\Debug\Algorithms.exe
+C:\Users\Swara Dharmaraj\documents\visual studio 2013\Projects\Schaum.DataStructures\Algorithms\bin\Debug\Algorithms.pdb
+C:\Users\Swara Dharmaraj\documents\visual studio 2013\Projects\Schaum.DataStructures\Algorithms\obj\Debug\Algorithms.exe
+C:\Users\Swara Dharmaraj\documents\visual studio 2013\Projects\Schaum.DataStructures\Algorithms\obj\Debug\Algorithms.pdb

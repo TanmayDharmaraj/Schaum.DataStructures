@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch7_Trees", "Ch7_Trees\Ch7_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Theory_of_Computation", "Theory_of_Computation\Theory_of_Computation.csproj", "{67300C52-E906-4689-BD53-C8F69A2FB451}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms", "Algorithms\Algorithms.csproj", "{1399D3D5-8BCA-4CBD-A3DF-6138AFA8E530}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -73,6 +75,16 @@ Global
 		{67300C52-E906-4689-BD53-C8F69A2FB451}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{67300C52-E906-4689-BD53-C8F69A2FB451}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{67300C52-E906-4689-BD53-C8F69A2FB451}.Release|Win32.ActiveCfg = Release|Any CPU
+		{1399D3D5-8BCA-4CBD-A3DF-6138AFA8E530}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1399D3D5-8BCA-4CBD-A3DF-6138AFA8E530}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1399D3D5-8BCA-4CBD-A3DF-6138AFA8E530}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{1399D3D5-8BCA-4CBD-A3DF-6138AFA8E530}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{1399D3D5-8BCA-4CBD-A3DF-6138AFA8E530}.Debug|Win32.ActiveCfg = Debug|Any CPU
+		{1399D3D5-8BCA-4CBD-A3DF-6138AFA8E530}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1399D3D5-8BCA-4CBD-A3DF-6138AFA8E530}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1399D3D5-8BCA-4CBD-A3DF-6138AFA8E530}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{1399D3D5-8BCA-4CBD-A3DF-6138AFA8E530}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{1399D3D5-8BCA-4CBD-A3DF-6138AFA8E530}.Release|Win32.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
