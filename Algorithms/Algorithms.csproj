@@ -32,7 +32,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Algorithms.MedianSort</StartupObject>
+    <StartupObject>Algorithms.BucketSort</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -44,6 +44,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BucketSort.cs" />
+    <Compile Include="CountingSort.cs" />
+    <Compile Include="HeapSort.cs" />
     <Compile Include="InsertionSort.cs" />
     <Compile Include="MedianSort.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
